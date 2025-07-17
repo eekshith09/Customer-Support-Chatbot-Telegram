@@ -31,7 +31,10 @@ Click to open the bot and start chatting 👇
 
 ## 📸 Bot Screenshot
 
-> Located in `/telegramss.png`
+Here’s how the Telegram chatbot looks in action:
+
+![Telegram Bot Screenshot](./telegramss.png)
+
 
 ---
 
