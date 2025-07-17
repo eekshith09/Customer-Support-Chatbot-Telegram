@@ -31,7 +31,7 @@ Click to open the bot and start chatting 👇
 
 ## 📸 Bot Screenshot
 
-> Located in `bot_chat_preview.png.png`
+> Located in `/telegramss.png`
 
 ---
 
