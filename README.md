@@ -31,7 +31,7 @@ Click to open the bot and start chatting 👇
 
 ## 📸 Bot Screenshot
 
-> Located in `screenshots/bot_chat_preview.png`
+> Located in `screenshots/bot_chat_preview.png.png`
 
 ---
 
